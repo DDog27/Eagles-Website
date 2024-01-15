@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Eagles</title>
+</head>
+<body>
+<img src="images/eagleshead.png">
+<p><a href="https://www.espn.com/" target="blank">national news</a> <a href="https://www.philadelphiaeagles.com/" target="blank">official website</a> 
+    <a href="https://www.philadelphiaeagles.com/team/players-roster/" target="blank">roster</a> <p>
+    <h2>Who are the Eagles?</h2>
+    <p>The Eagles were founded in 1933 by Bert Bell and Lud Wray and are part of the National Football Conference
+        in the NFL. Some notable current and former players include Brian Dawkins, Reggie White, Jalen Hurts and Jason Kelce. 
+    They are currently owned by Jeff Laurie and are one of the favorites to win the Super Bowl this year. </p>
+    <p>Overall, the team has won one super bowl, when they defeated the New England Patriots 41-33 in Super Bowl 52. Quarterback Nick 
+        Foles won Super Bowl MVP, and the game was headlined by the philly special. After the game, celebrations broke out in Philadelphia and 
+        a superbowl parade was held on the Thursday after the game. That remains their only super bowl win and one of their three Super Bowl appearences the other two coming in
+        the 1980 and 2022 seasons.
+    </p>
+
+    <table>
+        <tr>
+            <td><img src="images/smith.png"width="200"></td>
+            <td><img src="images/eaglesneon.png"width="200"></td>
+        </tr>
+
+    </table>
+    
+    <p>
+        <h3>Notable Current Players</h3>
+        <ul>
+            <li>Jalen Hurts (QB)</li>
+            <li>Deandre Swift (RB)</li>
+            <li>A.J. Brown (WR)</li>
+            <li>Jason Kelce (C)</li>
+            <li>Lane Johnson (RT)</li>
+            <li>Jalen Carter (DT)</li>
+            <li>Fletcher Cox (DT)</li>
+            <li>Darius Slay (CB)</li>
+            <li>Kevin Byard (S)</li>
+        </ul>
+
+
+
+
+    </p>
+
+    <p>The Eagles ©2024|support or questions? myemail@mygmail.com</p>
+    
+    
+    
+</body>
+</html>
